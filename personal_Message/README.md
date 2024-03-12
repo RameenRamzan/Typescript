@@ -1,1 +1,1 @@
-This folder contains my Project.
+This folder contains my Project 02.
